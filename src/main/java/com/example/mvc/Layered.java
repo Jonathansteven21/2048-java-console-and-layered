@@ -1,10 +1,10 @@
-package com.example;
+package com.example.mvc;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class Layered
 {
     public static void main( String[] args )
     {
